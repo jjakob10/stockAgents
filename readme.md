@@ -33,7 +33,7 @@ The application performs the following tasks:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/crewai-stocks.git
+   git clone https://github.com/jjakob10/stockAgents.git
    cd crewai-stocks
    ```
 
