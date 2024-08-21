@@ -34,7 +34,7 @@ The application performs the following tasks:
 
    ```bash
    git clone https://github.com/jjakob10/stockAgents.git
-   cd crewai-stocks
+   cd stockAgents
    ```
 
 2. **Install the required Python packages**
